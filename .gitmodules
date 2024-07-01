@@ -1,3 +1,9 @@
 [submodule "better-form-bot"]
 	path = better-form-bot
 	url = git@github.com:fazlulShanto/better-form-bot.git
+[submodule "better-form-api"]
+	path = better-form-api
+	url = git@github.com:fazlulShanto/better-form-api.git
+[submodule "better-form-dashboard"]
+	path = better-form-dashboard
+	url = git@github.com:fazlulShanto/better-form-dashboard.git
